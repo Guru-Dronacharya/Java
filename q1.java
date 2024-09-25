@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class TemperatureConverter {
 public static void main(String[] args) {
+    system.out.println(".")
 Scanner scanner = new Scanner(System.in);
 System.out.println("Enter 1 to convert Celsius to Fahrenheit, or 2 for Fahrenheit
 to Celsius:");
